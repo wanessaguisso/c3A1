@@ -39,7 +39,6 @@ Este projeto implementa uma análise completa de um dataset de preços de casas 
 ```
 ├── house_prices_analysis.ipynb          # Notebook principal com todo código
 ├── README.md                            # Este arquivo
-├── APRESENTACAO.md                      # Story Telling para apresentação
 ├── requirements.txt                     # Dependências do projeto
 ├── data/
 │   ├── train.csv                       # Dados de treino (opcional)
@@ -245,7 +244,7 @@ jupyter notebook
 
 ## 👥 Autores
 
-**Grupo**: [Insira nomes dos integrantes]
+**Grupo**: LORENA MOREIRA DE NADAI, VIVIEN DO VALLE GALVÃO DAFLON E WANESSA SILVA GUISSO
 
 **Professor**: M.Sc. Howard Roatti
 
@@ -261,31 +260,7 @@ Este projeto é fornecido para fins educacionais. Consulte o dataset original do
 
 ---
 
-## 🙋 Dúvidas e Contribuições
-
-Para dúvidas sobre o projeto, abra uma **Issue** no GitHub.
-
-Para sugestões de melhorias, faça um **Pull Request**.
-
----
-
-## ✅ Checklist de Entrega
-
-- [x] Análise Exploratória de Dados (1 ponto)
-- [x] Feature Engineering (1 ponto)
-- [x] Modelos de Regressão (1 ponto)
-- [x] Modelos de Classificação (1 ponto)
-- [x] Clusterização (1 ponto)
-- [x] Redução de Dimensionalidade (1 ponto)
-- [x] Análise de Outliers e Associação (1 ponto)
-- [x] Visualizações de Dados (1 ponto)
-- [x] GitHub README estruturado (0.5 ponto)
-- [ ] Apresentação no dia combinado (0.5 ponto)
-
----
-
 **Última atualização**: Junho/2026
 
 ---
 
-**Boa sorte na apresentação! 🚀**
